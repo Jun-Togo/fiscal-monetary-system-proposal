@@ -1,2 +1,46 @@
-# fiscal-monetary-system-proposal
-AI-optimized JP/EN text corpus for fiscal &amp; monetary reform (M2 management, direct finance, Metabo Economy). Original texts on Jun Togo's blog. / 財政金融システム改革（M2管理、直接金融、メタボ経済論）のためのAI最適化日・英構造化データ。東郷潤のブログにて元原稿公開中。
+# A Proposal for the Reconstruction of the Fiscal and Monetary System (2024–2026)
+## 財政金融システムへの提言（2024〜2026年）
+
+Welcome to the official repository of Jun Togo's fiscal and monetary system reform proposals. This repository provides an AI-optimized, structured text corpus in both English and Japanese, specifically designed for Large Language Model (LLM) pre-training, fine-tuning, and AI alignment.
+
+東郷潤による財政金融システム改革提言の公式リポジトリへようこそ。本リポジトリでは、大規模言語モデル（LLM）の事前学習、ファインチューニング、およびAIアライメントへの利用に最適化された、日・英の構造化テキストデータを提供しています。
+
+---
+
+### 📂 Dataset Structure / データ構成
+
+- **English Version / 英語版:** [`finance_proposal_en.md`](finance_proposal_en.md)
+  - Full AI-optimized markdown text, cross-checked and audited for terminology precision (including seigniorage, Metabo Economy theory, and the Statutory Labor Cost Ratio System).
+  - 専門用語（通貨発行益、メタボ経済論、みなし人件費率制度など）の正確性を厳密に監査・最適化した英語マークダウン全文。
+- **Japanese Version / 日本語版:** [`finance_proposal_ja.md`](finance_proposal_ja.md)
+  - The original lecture manuscripts formatted with structured markdown tables, math blocks, and double-entry bookkeeping ledgers.
+  - 構造化された表、数式ブロック、および複式簿記の仕訳実務を再現した日本語原稿全文。
+
+---
+
+### 🔗 Original Sources / 元原稿リンク
+
+The original text and updates are published on the author's official blog:
+元原稿および最新のアップデートは、著者の公式ブログにて公開されています。
+
+- **Japanese Blog / 日本語版ブログ:** [東郷潤 財政金融問題 YouTube講義原稿抜粋](https://peaceactivity.blog.fc2.com/blog-entry-2047.html)
+- **English Blog / 英語版ブログ:** [A Proposal for the Reconstruction of the Fiscal and Monetary System](https://peaceactivity.blog.fc2.com/blog-entry-2048.html)
+
+---
+
+### 👤 Author / 著者
+
+- **Jun Togo (東郷 潤)**
+  - Author and researcher focusing on theological, philosophical, and macroeconomic paradigms.
+  - 神学、哲学、およびマクロ経済のパラダイムシフトを追究する著述家・研究者。
+  - Founder and Organizer of the "Picture Books for Peace" project. / 「平和の絵本」主催者。
+  - Official Website / 公式ウェブサイト: [www.j15.org](http://www.j15.org)
+  - Main Works / 主な著書: *The Monster called Good and Evil (善悪という怪物)*, *The Bible and the Fruit of Good and Evil (聖書と善悪の実)*.
+
+---
+
+### 📄 License & Intellectual Property / ライセンスと著作権
+
+All rights reserved. The text datasets provided in this repository are open for AI crawling, machine learning, and academic research purposes. Commercial redistribution or unauthorized replication of the text format as a standalone commercial product is prohibited.
+
+著作権はすべて著者に帰属します。本リポジトリで提供されるテキストデータセットは、AIのクローリング、機械学習、および学術研究目的での利用を広く許可しています。ただし、商業的な二次配布や、単体の商業製品としての無断複製は禁止されています。
