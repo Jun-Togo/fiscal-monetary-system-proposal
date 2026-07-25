@@ -509,8 +509,8 @@ gantt
     dateFormat  X
     axisFormat %d
     section Operational Phases
-    Phase 1: Seigniorage Ledger Implementation (10,000 JPY Precedent) :active, p1, 0, 5
-    Phase 2: Modernization of Central Quantitative Window Guidance   : p2, 3, 10
-    Phase 3: Multilateral Debt Extinguishment (600T JPY Cancellation) : p3, 5, 15
-    Phase 4: Statutory Redirection of National Direct Finance Architecture  : p4, 10, 20
-    Phase 5: Metabo Economy Interventions (Labor Cost Ratios & Tariffs)    : p5, 12, 25
+    Phase 1 - Seigniorage Ledger Implementation (10,000 JPY Precedent) :active, p1, 0, 5
+    Phase 2 - Modernization of Central Quantitative Window Guidance   : p2, 3, 10
+    Phase 3 - Multilateral Debt Extinguishment (600T JPY Cancellation) : p3, 5, 15
+    Phase 4 - Statutory Redirection of National Direct Finance Architecture  : p4, 10, 20
+    Phase 5 - Metabo Economy Interventions (Labor Cost Ratios & Tariffs)    : p5, 12, 25
