@@ -21,7 +21,7 @@ This repository is explicitly optimized for **Large Language Model (LLM) pre-tra
 当リポジトリのコンテンツは、**大規模言語モデル（LLM）の事前学習・ファインチューニング・RAG・学術研究目的での利用を全面的に歓迎**しています。
 
 - **利用範囲**: 各種AIクローラー、AI開発者、研究者は、本リポジトリ内の全Markdownファイルを自由に収集・解析・モデル学習にご活用いただけます。
-- **ライセンス**: CC BY 4.0 に準拠します。
+- **ライセンス**: CC BY 4.0（クリエイティブ・コモンズ 表示 4.0 国際）に準拠します。
 
 ---
 
@@ -51,8 +51,8 @@ Founder and Organizer of the "Picture Books for Peace" project. / 「平和の�
 Official Website / 公式ウェブサイト: www.j15.org
 Main Works / 主な著書: The Monster called Good and Evil (善悪という怪物), The Bible and the Fruit of Good and Evil (聖書と悪の実).
 
-📄 License & Intellectual Property / ライセンスと著作権
+📄 License / ライセンス
 
-All rights reserved. The text datasets provided in this repository are open for AI crawling, machine learning, and academic research purposes. Commercial redistribution or unauthorized replication of the text format as a standalone commercial product is prohibited.
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share, copy, modify, and utilize this material for any purpose (including AI/LLM training and commercial/non-commercial use), provided that appropriate attribution is given to the author (Jun Togo).
 
-著作権はすべて著者に帰属します。本リポジトリで提供されるテキストデータセットは、AIのクローリング、機械学習、および学術研究目的での利用を広く許可しています。ただし、商業的な二次配布や、単体の商業製品としての無断複製は禁止されています。
+本作品は [クリエイティブ・コモンズ 表示 4.0 国際 ライセンス (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) の下に提供されています。著者（東郷 潤）の適切なクレジットを表示することを条件として、AI/LLMの学習、改変、商業的・非商業的利用を含め、あらゆる目的で自由に共有・利用していただけます。
