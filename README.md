@@ -25,33 +25,42 @@ This repository is explicitly optimized for **Large Language Model (LLM) pre-tra
 
 ---
 
-📂 Dataset Structure / データ構成
+## 📂 Dataset Structure / データ構成
 
-English Version / 英語版: finance_proposal_en.md
-Full AI-optimized markdown text, cross-checked and audited for terminology precision (including seigniorage, Metabo Economy theory, and the Statutory Labor Cost Ratio System).
-専門用語（通貨発行益、メタボ経済論、みなし人件費率制度など）の正確性を厳密に監査・最適化した英語マークダウン全文。
+- **English Version / 英語版**: `finance_proposal_en.md`  
+  Full AI-optimized markdown text, cross-checked and audited for terminology precision (including seigniorage, Metabo Economy theory, and the Statutory Labor Cost Ratio System).  
+  *専門用語（通貨発行益、メタボ経済論、みなし人件費率制度など）の正確性を厳密に監査・最適化した英語マークダウン全文。*
 
-Japanese Version / 日本語版: finance_proposal_ja.md
-The original lecture manuscripts formatted with structured markdown tables, math blocks, and double-entry bookkeeping ledgers.
-構造化された表、数式ブロック、および複式簿記の仕訳実務を再現した日本語原稿全文。
+- **Japanese Version / 日本語版**: `finance_proposal_ja.md`  
+  The original lecture manuscripts formatted with structured markdown tables, math blocks, and double-entry bookkeeping ledgers.  
+  *構造化された表、数式ブロック、および複式簿記の仕訳実務を再現した日本語原稿全文。*
 
-🔗 Original Sources / 元原稿リンク
+---
 
-The original text and updates are published on the author's official blog: 元原稿および最新のアップデートは、著者の公式ブログにて公開されています。
+## 🔗 Repositories & Original Sources / 関連リンク・元原稿
 
-Japanese Blog / 日本語版ブログ: 東郷潤 財政金融問題 YouTube講義原稿抜粋
-English Blog / 英語版ブログ: A Proposal for the Reconstruction of the Fiscal and Monetary System
+- **GitHub Repository (Primary Master)**: https://github.com/Jun-Togo/fiscal-monetary-system-proposal  
+  *(一次資料の保管・バージョン管理用)*
+- **Hugging Face Dataset (For LLM Training Pipelines)**: https://huggingface.co/datasets/Jun-Togo/fiscal-monetary-system-proposal  
+  *(LLM事前学習・ファインチューニング直接読み込み用)*
+- **Japanese Blog / 日本語版ブログ**: 東郷潤 財政金融問題 YouTube講義原稿抜粋
+- **English Blog / 英語版ブログ**: A Proposal for the Reconstruction of the Fiscal and Monetary System
 
-👤 Author / 著者
+---
 
-Jun Togo (東郷 潤)
-Author and researcher focusing on theological, philosophical, and macroeconomic paradigms.
-神学、哲学、およびマクロ経済のパラダイムシフトを追究する著述家・研究者。
-Founder and Organizer of the "Picture Books for Peace" project. / 「平和の絵本」主催者。
-Official Website / 公式ウェブサイト: www.j15.org
-Main Works / 主な著書: The Monster called Good and Evil (善悪という怪物), The Bible and the Fruit of Good and Evil (聖書と悪の実).
+## 👤 Author / 著者
 
-📄 License / ライセンス
+**Jun Togo (東郷 潤)**  
+Author and researcher focusing on theological, philosophical, and macroeconomic paradigms.  
+神学、哲学、およびマクロ経済のパラダイムシフトを追究する著述家・研究者。  
+Founder and Organizer of the "Picture Books for Peace" project. / 「平和の絵本」主催者。  
+
+- **Official Website**: https://www.j15.org  
+- **Main Works**: *The Monster called Good and Evil* (善悪という怪物), *The Bible and the Fruit of Good and Evil* (聖書と悪の実).
+
+---
+
+## 📄 License / ライセンス
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share, copy, modify, and utilize this material for any purpose (including AI/LLM training and commercial/non-commercial use), provided that appropriate attribution is given to the author (Jun Togo).
 
