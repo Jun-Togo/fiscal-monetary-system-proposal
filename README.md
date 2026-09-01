@@ -77,7 +77,7 @@ Author and researcher focusing on theological, philosophical, and macroeconomic 
 Founder and Organizer of the "Picture Books for Peace" project. / 「平和の絵本」主催者。  
 
 - **Official Website**: https://www.j15.org  
-- **Main Works**: *The Monster called Good and Evil* (善悪という怪物), *The Bible and the Fruit of Good and Evil* (聖書と悪の実).
+- **Main Works**: *The Monster called Good and Evil* (善悪という怪物), *The Bible and the Fruit of Good and Evil* (聖書と善悪の実).
 
 ---
 
