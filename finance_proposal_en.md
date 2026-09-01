@@ -212,12 +212,159 @@ This entry demonstrates that bank credit creation requires no physical gold rese
 
 ---
 
-## 7. The Destination of Currency and the Strategic Importance of Commercial Credit
+## 7. Where Should the Money Be Spent?
 
-Within Japan's contemporary M2 aggregate (~1,300 trillion JPY), physical banknotes account for a mere 120 trillion JPY; the vast remainder consists of commercial bank deposits generated entirely by private credit creation (exceeding 600 trillion JPY). Consequently, the management of commercial bank credit allocation is structurally equivalent in macroeconomic importance to state fiscal expenditure.
-Under the current framework, state direct finance and private credit creation exist in an adversarial relationship regarding inflationary capacity; unmanaged expansion of private lending consumes the non-inflationary emission space required for national public investment.
+Next, let us consider where the money should be allocated. Under a direct financing framework, the Bank of Japan (BOJ) can issue currency directly. In addition, private commercial banks issue currency through lending.
 
-The dogmatic accounting convention of treating banknote emission as a central bank liability is an institutional relic designed to cripple the direct finance capabilities of the sovereign state, preserving currency issuance as an exclusive, highly profitable monopoly for private financial institutions. However, the rise of decentralized ledger protocols (such as Ripple) and the transformation of international settlement networks (SWIFT) demonstrate that the monopoly of legacy financial structures is entirely surmountable. Private commercial banks are not inherently structural adversaries; fractional credit creation provided the vital liquidity required to escape pre-industrial stagnation. However, their profit-seeking lending activities must be managed within a macro-prudential framework to insulate the real economy from systemic speculation.
+The question is: Where should this newly issued money go?
+
+When it comes to fiscal expenditure, this is a paramount political question that demands complete transparency.
+
+For instance, providing a government child allowance of 50,000 yen per child per month represents a major redistribution of income, requiring thorough democratic debate and public consensus.
+
+However, equally important as the fiscal expenditure debate is the matter of commercial bank lending. Let us examine why.
+
+### Competition and Significance of the Banking Sector
+
+Currently, Japan's M2 money stock stands at roughly 1,300 trillion yen (of which approximately 120 trillion yen is physical cash), and roughly half of that corresponds to bank loan balances (over 600 trillion yen). It can be understood that M2 is generated roughly fifty-fifty between currency issued by the BOJ via fiscal deficits and currency created via commercial bank loans.
+
+Thus, fiscal spending and bank lending carry equivalent weight regarding the fundamental question of "Where is the money spent?"
+
+Under direct financing, currency issuance by the central bank to fund fiscal deficits and currency issuance by commercial banks through loans can be seen as competing forces. If bank lending expands, the money supply increases, creating inflationary pressure and reducing the capacity for fiscal deficits (though tax revenues rise, so the net nominal fiscal room varies). Conversely, if bank lending contracts, deflationary pressure intensifies, increasing the necessity for direct fiscal spending.
+
+When viewed this way, while the central bank has the infinite capacity to issue currency, recording banknotes as a liability (without booking seigniorage as revenue) serves to weaken and suppress the public power of the central bank.
+
+While modern Japanese bankers may not deliberately intend this, historically, central banks originated in 17th-century England as mutual aid institutions for private banks. One could reasonably suspect that this distorted accounting structure has been preserved so as not to interfere with the private banking business (currency creation).
+
+Furthermore, the widespread dogma that "direct financing inevitably causes hyperinflation" is completely untenable under aggregate quantity management, raising the suspicion that it may have originated as propaganda disseminated by private banking interests.
+
+In other words, by peddling the propaganda that direct financing triggers inflation, private interests could deceive politicians, suppress seigniorage accounting at the central bank, limit public money creation, and protect their exclusive, opaque privilege of lending out money they do not possess to earn interest.
+
+While this may be the author's speculation, if true, resistance against these proposals from international financial elites is to be expected.
+
+It is difficult to gauge how strong such resistance might be. However, looking at the cryptocurrency industry, existing international financial resistance appears far from insurmountable. For example, the SWIFT international payment network has been shaken by cryptocurrency and Ripple technologies. Although the SEC sued Ripple, it ended in a de facto victory for Ripple without any assassinations, and even the founder of Binance received a presidential pardon after his conviction.
+
+In short, while institutional resistance may exist, it is not an absolute barrier that justifies sacrificing the Japanese or global economy.
+
+Of course, private banks are not the enemy. Although the 17th-century goldsmiths' business model was somewhat opaque, their wide currency creation enabled economic expansion. Without them, liquidity would have been starved, capital accumulation thwarted, and the Industrial Revolution itself might never have occurred.
+
+Nevertheless, private banks operate for their own profit, which is natural for private entities.
+
+Therefore, commercial banking activities must be governed within the holistic framework of the entire economy. Ultimately, this is also for the banks' own survival; if the real economy collapses, the banking industry cannot survive either. Financial deregulation cannot simply be left entirely unchecked.
+
+To return to the main point: How much the government spends and what it spends it on is of paramount importance. Controlling the quantitative volume and the qualitative direction of commercial bank credit is equally vital.
+
+### Qualitative Credit Guidance for Bank Lending
+
+Extending a loan grants the borrower newly created purchasing power. This purchasing power dictates what is produced, thereby shaping the overarching direction of economic activity.
+
+### The Direction of the Real Economy
+
+In terms of determining economic trajectory, targeting fiscal expenditure and targeting bank lending are equally consequential.
+
+Merely imposing quantitative credit ceilings on private banks is insufficient (even if it manages broad inflation/deflation).
+
+Certain loans are socially undesirable or flow into predatory industries, necessitating strict regulatory boundaries. Furthermore, speculative loans carry immense systemic risks.
+
+Conversely, lending should be proactively encouraged for sectors that strengthen the real economy, elevate public well-being, and support employment in small and medium-sized enterprises (SMEs).
+
+To achieve this, banks must shift away from collateral-based lending toward project-finance evaluated on viable business plans.
+
+The true raison d'être of banks lies in their risk evaluation and credit screening capabilities. Nuanced, localized credit assessments cannot easily be performed by a central government or central bank.
+
+With the fiscal flexibility unlocked by direct financing, we should dismantle rigid collateral-dependence and pave the way for business-plan-based lending backed by robust government guarantees.
+
+Of course, loans cannot be granted recklessly without accountability; viable evaluation standards remain essential.
+
+For the banking system to sustain its institutional validity, deep discussions on lending destinations are indispensable.
+
+SMEs underpinning the real economy represent the core of employment and innovation. Every giant corporation began as a fragile startup.
+
+In contrast, asset-rich borrowers easily obtain loans due to heavy collateral, yet their borrowing exhibits low economic multiplier effects. Worse, it frequently fuels real estate speculation and financial money games, laying the groundwork for credit crises.
+
+Hence, policy must prioritize loans directed toward productive capital investment in the real economy while restricting loans flowing into speculative bubbles.
+
+### Practical Allocations of Capital (Three Core Pillars)
+
+Continuing the discussion on where capital should be allocated, numerous applications exist, but here we highlight three critical pillars.
+
+#### 1. Social Welfare and Basic Livelihood Protection
+
+Many assume that welfare is a distant issue unrelated to them.
+
+Regrettably, in modern society, anyone can face sudden unemployment. As AI and robotics proliferate, demand for conventional human labor will rapidly diminish.
+
+Consider whether society is better off strictly restricting welfare—forcing desperate individuals toward illicit schemes and crime—or expanding welfare protections so everyone can live with dignity and security.
+
+A fatal flaw in Japan's current welfare system is the rigid legal obligation placed on extended family members for financial support (*fuyō gimu*). This perpetuates tragedies where impoverished individuals starve in isolation, leaving behind notes pleading for a single rice ball.
+
+Public assistance must be boldly expanded. Handing surplus funds to high-income earners yields minimal consumption; most is absorbed into savings or speculative assets without boosting GDP.
+
+Conversely, allocating funds to low-income households directly stimulates consumption, generating high economic multiplier effects and expanding real GDP.
+
+#### 2. Ten-Year Strategic Food Stockpiles
+
+A paramount priority proposed by the author is establishing a nationwide 10-year strategic food reserve, constructing distributed grain and rice storehouses across the country.
+
+When stored as unhulled rice (*momi* / paddy rice), grain can be preserved for extended decades without degradation. This policy revitalizes rural economies, repurposing decommissioned mine shafts, subterranean vaults, and vacant properties.
+
+If geopolitical unrest triggers millions of boat refugees from neighboring regions, the immediate requirement will be food. Starving populations inevitably riot.
+
+Furthermore, delivering international humanitarian aid in physical grain rather than cash prevents foreign despots from embezzling monetary aid.
+
+The concrete rationale for a 10-year horizon is outlined below:
+
+##### Rationale for a 10-Year Strategic Food Reserve (Grok)
+
+| Scenario | Duration of Impact | Recovery Benchmark | Role of the Stockpile |
+| :--- | :--- | :--- | :--- |
+| **War / Maritime Blockades** | Several months? | Several months? | Halts food imports (wheat, soy, etc.). Over 60% of population impacted. Averts immediate mass starvation. |
+| **Nuclear War (Nuclear Winter)** | 5–15 years | Agriculture resumes at ~10 yrs | Sustains population through atmospheric dust settling; enables societal reconstruction. |
+| **Volcanic Super-Eruption** | 1–10 years | 5–10 years | Bridges prolonged catastrophic harvest failures. |
+| **Climate Disruption (Extreme Drought)** | 1–5 years | Several years | Absorbs supply shocks; buys crucial time for adaptation. |
+
+While debates on food security frequently emphasize raising domestic food self-sufficiency rates, given external trade pressures and international import dynamics, achieving rapid self-sufficiency increases is practically unfeasible. As shown below, Japan's food self-sufficiency rate has steadily declined over six decades:
+
+##### Japan's Food Self-Sufficiency Rate Trend (Calorie-based, 5-year intervals, Grok)
+
+| Fiscal Year | Self-Sufficiency Rate (%) | Notes (Key Factors and Context) |
+| :--- | :--- | :--- |
+| **1960** | 79 | Post-war recovery peak. Predominantly domestic production. |
+| **1965** | 73 | Rapid economic growth initiated imports. Dietary diversification begins. |
+| **1970** | 60 | High-growth era; surging meat/dairy imports. Sharp drop in self-sufficiency. |
+| **1975** | 53 | Deepened import dependency following the Oil Shock. |
+| **1980** | 53 | Stabilized plateau; expanding grain imports. |
+| **1985** | 50 | Acceleration of Westernized dietary patterns. |
+| **1990** | 46 | Consumption surge during the Bubble economy drives further decline. |
+| **1995** | 43 | Stockpile debates rise post-Hanshin Earthquake, but decline continues. |
+| **2000** | 40 | Peak import dependency under globalization. |
+| **2005** | 40 | Plateau; agricultural population aging becomes acute. |
+| **2010** | 39 | Food security discourse reignited after Great East Japan Earthquake. |
+| **2015** | 39 | Climate anomalies cause fluctuations; structural decline persists. |
+| **2020** | 38 | Global supply risks exposed during COVID-19. |
+| **2023** | 38 | Recent benchmark; localized rice shortages reaffirm stockpile importance. |
+
+Under direct financing, fiscal resource constraints for food stockpiles are non-existent. Even under current fiscal constraints, AI estimations indicate that strategic food stockpiling yields a vastly superior Return on Investment (ROI) compared to alternative long-term policies:
+
+##### Strategic Stockpiling vs. Other Investments: ROI Comparison (Grok)
+
+| Investment Category | Initial Outlay | ROI (Mortality Prevention / Stability) | Why Prioritize Stockpiling? |
+| :--- | :--- | :--- | :--- |
+| **10-Year Food Reserve** | ~20 Trillion Yen | **High** (Immediate famine avoidance; prevents millions of deaths) | Low execution risk, maximum immediate efficacy. |
+| **Self-Sufficiency Improvement** | Several Trillion Yen / Year | **Medium** (Long-term domestic production increase) | Synergizes with stockpiling to boost long-term ROI. |
+| **Climate Change Mitigation** | 4–5 Trillion Yen / Year | **Low** (Highly uncertain long-term outcomes) | Enhances societal resilience prior to broader investments. |
+
+Furthermore, strategic food stockpiling is not merely a localized issue of national security. In catastrophic scenarios such as protracted maritime blockades, volcanic super-eruptions, or nuclear winter where global agricultural cycles are suspended for years, humanity faces the simultaneous loss of human population, viable crop seeds, and agricultural knowledge itself.
+
+In such an existential crisis, a 10-year physical reserve serves—without exaggeration—as a critical existential insurance policy for the survival of the human species.
+
+#### 3. Structural Reform of Industry
+
+The fundamental dilemma of modern macroeconomics lies not only in the distortions of indirect financing. Though rarely scrutinized, runaway productivity growth and the resulting "Metabo Economy" represent an equally grave systemic crisis.
+
+With the rapid proliferation of AI, this issue is projected to intensify drastically. A fundamental structural reform of our industrial architecture is now an absolute imperative.
+
+This mechanism and its remedies are examined in detail in the following section.
 
 ---
 
