@@ -64,7 +64,7 @@ This repository contains blueprints connecting **monetary architecture (direct f
 - **Hugging Face Dataset**: https://huggingface.co/datasets/Jun-Togo/fiscal-monetary-system-proposal  
   *(AIテキストデータセット公開拠点)*
 - **Author Profile (Hugging Face)**: https://huggingface.co/Jun-Togo
-- **Original PDF Manuscript / 元原稿PDF**: https://www.j15.org/Money/2026-7-6%20Finance.pdf
+- **Original PDF Manuscript / 元原稿PDF**: https://www.j15.org/Money/2026-11%20Finance.pdf
 - **Japanese Blog / 日本語ブログ**: https://peaceactivity.blog.fc2.com/
 
 ---
